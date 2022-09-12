@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="ExKsoap2-1.0.3.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/easywsdl/ExKsoap2-1.0.3.1.jar!/"/>
+	</lib>
+	<lib name="ksoap2-android-assembly-3.6.4-jar-with-dependencies.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/easywsdl/ksoap2-android-assembly-3.6.4-jar-with-dependencies.jar!/"/>
+	</lib>
+</component>
